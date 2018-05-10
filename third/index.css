@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+    height: 100px;
+    width: 100%
+}
+
+.row-big {
+    height: 200px;
+    width: 100%
+}
+
+.row-1 {
+    background-color: gray;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.row-1-bluesquare {
+    width: 50px;
+    height: 50px;
+    background-color: darkgray;
+}
+
+.row-2 {
+    background-color: white;
+    box-sizing: border-box;
+    padding: 50px;
+}
+
+.row-blue {
+    background-color: cornflowerblue;
+}
+
+.row-aqua {
+    background-color: aquamarine;
+}
+
+.row-green {
+    background-color: greenyellow;  
+}
+
+.row-yellow {
+    background-color: yellow;
+}
