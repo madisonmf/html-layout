@@ -1,0 +1,78 @@
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: gray;
+}
+
+.header {
+    width: 100%;
+    height: 30vh;
+    background-color: white;
+    border: 5px;
+    border-color: black;
+    padding: 10px;
+}
+
+.purplerec {
+    width: 150px;
+    height: 50px;
+    background-color: blueviolet;
+    display: inline-block;
+    margin: 0 50px;
+}
+
+.greenrec {
+    width: 400px;
+    height: 200px;
+    background-color: green;
+    display: inline-block;
+}
+
+.bluecircle {
+    background-color: skyblue;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.main {
+    width: 100%;
+    background-color: white;
+    border: 5px;
+    border-style: dotted;
+    border-color: black;
+    padding: 50px;
+    box-sizing: border-box;
+    padding: 50px;
+    margin-top: 25px; 
+}
+
+.manilabox {
+    width: 100%;
+    height: 200px;
+    background-color: bisque;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+   -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+   box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+}
+
+.banner {
+    width: 50%;
+    background-color: white;
+    border: 1px;
+    border-color: lightgray;
+   padding: 100px;
+   box-sizing: border-box;
+   margin: 25px auto;
+   -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+   -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+   box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+.banner h1 {
+    width: 100%;
+    text-align: center;
+    color: navy;
+    letter-spacing: 10px;
+}

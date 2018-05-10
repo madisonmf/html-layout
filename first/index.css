@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: gray;
+    width: 100%;
+    height: vh;
+}
+
+.header {
+    width: 100%;
+    height: vh;
+    background-color: slategray;
+}
+
+.main {
+    width: 75%;
+    height: 70vh;
+    background-color: lightgray;
+    margin: 0 auto;
+}
+
+.footer {
+    width: 75;
+    height: 10vh;
+    background-color: darkslategray;
+    margin: 0 auto;
+}
